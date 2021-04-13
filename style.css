@@ -21,7 +21,7 @@ a{
 
 .header{
     min-height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.65),rgba(0,0,0,0.65)),url('HEBLAB.png');
+    background: linear-gradient(rgba(0,0,0,0.65),rgba(0,0,0,0.65)),url('heblab.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
