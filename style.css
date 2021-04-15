@@ -237,8 +237,8 @@ a{
     opacity: 1;
   }
 }
-@media (min-width: 480px) { 
-.text {
-    font-size: 16px;
-}
+@media (min-width: 700px) {
+  
+  .menu-toggle {
+    display: none;
 }
